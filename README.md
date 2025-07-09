@@ -11,7 +11,14 @@ Telegram-бот для онлайн-записи к косметологу с и
 - Дружелюбный UX и сообщения об ошибках
 
 ## Скриншот
-> _Добавьте сюда скриншот работы бота_
+![image](https://github.com/user-attachments/assets/dea6e024-473b-43a6-99ee-20c1a485d509)
+![image](https://github.com/user-attachments/assets/85dfebab-ebee-4374-9f5b-fe793abde19f)
+![image](https://github.com/user-attachments/assets/23f126e9-df87-4ea1-90c4-8673dc90824c)
+![image](https://github.com/user-attachments/assets/3ca82025-457b-4b9f-8d81-07631df237c1)
+![image](https://github.com/user-attachments/assets/d0abff97-be01-482d-b8b6-d7887983a4fe)
+![image](https://github.com/user-attachments/assets/0aa123aa-1b87-477b-b94c-4490d109a857)
+![image](https://github.com/user-attachments/assets/4c94b412-bb10-4b11-a97d-4e6913a6f21e)
+
 
 ## Быстрый старт
 
